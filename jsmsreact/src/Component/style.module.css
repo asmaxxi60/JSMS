@@ -1,0 +1,96 @@
+.content
+{
+    text-shadow: 2px 2px 2px blue;
+    text-underline-position: below;
+}
+table
+
+{
+    border: 3px solid black;
+    border-spacing: 2ch;
+    margin: 4ch;
+    align-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+th
+{
+    margin: 0ch;
+    padding: 0.5rem;
+    text-align: center;
+    border-bottom: 2px solid black; 
+    border-right: 2px solid black;
+}
+
+td
+{
+    margin: 2ch;
+    /* padding: 0.5rem; */
+     padding: 5px; 
+    text-align:center;       
+    border-bottom: 2px solid black;
+    border-right: 2px solid black;
+}
+/* input[type=text], select  */
+/* input[type=text], input[type=password] */
+.inpTextForm{
+     
+        width: 50%;
+        padding: 12px 20px;
+        margin: 8px 0;
+        display: inline-block;
+        border: 2px solid #ccc;
+        box-sizing: border-box;
+      }
+      
+  
+  /* input[type=submit]:hover  */
+  .inpSubForm{
+    background-color: #45a049;
+  }
+  
+  
+
+  .btn {
+    /* background-color: #04AA6D; */
+    /* color: white; */
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 50%;
+  }
+  
+  button:hover {
+    opacity: 0.8;
+  }
+  
+  .cancelbtn {
+    width: auto;
+    padding: 10px 18px;
+    background-color: #f44336;
+  }
+  
+  .imgcontainer {
+    text-align: center;
+    margin: 24px 0 12px 0;
+  }
+
+  /* div  */
+  /* .div{
+    border-radius: 5px;
+    background-color:pink;
+    padding: 20px;
+    text-align: center;
+    align-content: center;
+  } */
+  .bgimg{
+    background-image: 
+    url("https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphotos%2Fgold-jewelry&psig=AOvVaw0siz527MUsUirrGPv3KzsH&ust=1648488663331000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMjMwv3o5vYCFQAAAAAdAAAAABAD");
+    background-size: "cover";
+    height: 100vh;
+    margin-top: -70px;
+    font-size:50px;
+    background-repeat:no-repeat; 
+  }

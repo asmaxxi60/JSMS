@@ -1,0 +1,157 @@
+
+   [
+        {
+        "pid": 1,
+        "pname": "Necklace",
+        "description": "A necklace is an article of jewellery that is worn around the neck",
+        "qty": 1,
+        "weight": 28.0,
+        "color": "Gold",
+        "purity": 22.0,
+        "image": null,
+        "catid": 1
+    },
+    {
+        "pid": 2,
+        "pname": "Pendant",
+        "description": "A pendant is a loose-hanging piece of jewellery, generally attached by a small loop to a necklace.",
+        "qty": 1,
+        "weight": 4.0,
+        "color": "Gold",
+        "purity": 22.0,
+        "image": null,
+        "catid": 1
+    },
+    {
+        "pid": 3,
+        "pname": "Bangles",
+        "description": "Wear in hands.",
+        "qty": 1,
+        "weight": 58.0,
+        "color": "Gold",
+        "purity": 22.0,
+        "image": null,
+        "catid": 1
+    },
+    {
+        "pid": 4,
+        "pname": "Payal",
+        "description": "payal",
+        "qty": 1,
+        "weight": 20.0,
+        "color": "Silvar",
+        "purity": 92.5,
+        "image": null,
+        "catid": 2
+    },
+    {
+        "pid": 5,
+        "pname": "Bracelet",
+        "description": "A bracelet is an article of jewellery that is worn around the wrist.",
+        "qty": 1,
+        "weight": 4.0,
+        "color": "Gold",
+        "purity": 22.0,
+        "image": null,
+        "catid": 1
+    },
+    {
+        "pid": 6,
+        "pname": "Ring",
+        "description": "A ring is a round band, usually made of metal, worn as ornamental jewelry.",
+        "qty": 1,
+        "weight": 3.0,
+        "color": "Gold",
+        "purity": 22.0,
+        "image": null,
+        "catid": 1
+    },
+    {
+        "pid": 7,
+        "pname": "Engagement ring",
+        "description": "Engagement rings, like any other kind of jewelry, come in many different styles.",
+        "qty": 1,
+        "weight": 4.0,
+        "color": "Gold",
+        "purity": 22.0,
+        "image": null,
+        "catid": 1
+    },
+    {
+        "pid": 8,
+        "pname": "Jhooomar",
+        "description": "Made from Copper and plated with Hi-gold",
+        "qty": 1,
+        "weight": 19.0,
+        "color": "Gold",
+        "purity": 22.0,
+        "image": null,
+        "catid": 1
+    },
+    {
+        "pid": 9,
+        "pname": "Jhumkas",
+        "description": "Lightweight gold jhumkas.",
+        "qty": 1,
+        "weight": 24.0,
+        "color": "Gold",
+        "purity": 22.0,
+        "image": null,
+        "catid": 1
+    },
+    {
+        "pid": 10,
+        "pname": "Balis",
+        "description": "Plain Gold Bali",
+        "qty": 1,
+        "weight": 2.0,
+        "color": "Gold",
+        "purity": 18.0,
+        "image": null,
+        "catid": 1
+    },
+    {
+        "pid": 11,
+        "pname": "Nose pin",
+        "description": "Gold Nose Pin",
+        "qty": 1,
+        "weight": 0.0,
+        "color": "Gold",
+        "purity": 18.0,
+        "image": null,
+        "catid": 1
+    },
+    {
+        "pid": 12,
+        "pname": "Nose Ring",
+        "description": "Stone Gold Nose Ring",
+        "qty": 1,
+        "weight": 2.0,
+        "color": "Gold",
+        "purity": 18.0,
+        "image": null,
+        "catid": 1
+    },
+    {
+        "pid": 13,
+        "pname": "Kangan",
+        "description": "Pure Gold Bangles",
+        "qty": 1,
+        "weight": 58.0,
+        "color": "Gold",
+        "purity": 22.5,
+        "image": null,
+        "catid": 1
+    },
+    {
+        "pid": 14,
+        "pname": "Pendants",
+        "description": "Pure Gold Pendants",
+        "qty": 1,
+        "weight": 16.0,
+        "color": "Gold",
+        "purity": 22.0,
+        "image": null,
+        "catid": 1
+    }
+   ]
